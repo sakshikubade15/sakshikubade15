@@ -37,27 +37,43 @@ I'm currently building hands-on Data Analytics projects focused on solving real-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Data Analytics Projects
+
+## 📊 Featured Data Analytics Projects
+
+### 🏧 [ATM Operations & Cash Management Analytics](https://github.com/sakshikubade15/ATM-Operations-Analytics)
+
+**Business Problem:** Understand ATM transaction failures, cash replenishment, and maintenance performance to support operational decisions.
+
+- Analyzed 10,000 synthetic ATM transactions using PostgreSQL and Python.
+- Measured a 94.05% transaction success rate and identified 595 failed transactions.
+- Investigated transaction patterns, ATM reliability, cash refills, and maintenance downtime.
+
+**Tech Stack:** PostgreSQL | Python | Pandas | Excel | Matplotlib
+
+[🔗 View Project](https://github.com/sakshikubade15/ATM-Operations-Analytics)
+
+### 🚚 [Last-Mile Delivery Operations & Delay Analysis](https://github.com/sakshikubade15/last-mile-delivery-analysis)
+
+**Business Problem:** Identify delivery delays and operational performance gaps to support better delivery planning.
+
+- Analyzed 10,000 simulated delivery orders using Microsoft Excel.
+- Evaluated on-time delivery performance of 83.57% and identified 1,580 late orders.
+- Built Excel-based KPI analysis, PivotTables, PivotCharts, and an interactive dashboard.
+
+**Tech Stack:** Excel | PivotTables | PivotCharts | Data Cleaning | Dashboarding
+
+[🔗 View Project](https://github.com/sakshikubade15/last-mile-delivery-analysis)
+
+## 🚀 Currently Building
 
 ### 💰 Financial Performance & Profitability Analytics
-Analyzing sales, profit margins, discounts, and product performance to identify loss-making areas and support business decisions.
-
-**Tools:** Excel | PostgreSQL | Power BI
+Analyzing sales, discounts, profit margins, and loss-making categories using Excel, PostgreSQL, and Power BI.
 
 ### 📦 StockSense — Inventory Risk & Demand Planning
-Exploring inventory levels, demand patterns, and stock risks to support smarter inventory planning.
+Exploring inventory risks and demand patterns using Python, Polars, DuckDB, Excel, and Power BI.
 
-**Tools:** Python | Polars | DuckDB | Excel | Power BI
-
-### 🏧 ATM Transaction Analytics
-Analyzing ATM transactions, success and failure rates, geographic activity, and maintenance data.
-
-**Tools:** PostgreSQL | Excel | Power BI
-
-### 🚚 Delivery Performance Analytics
-Evaluating delivery delays, on-time performance, shipping methods, and operational efficiency.
-
-**Tools:** Excel | SQL | Python | Power BI
+*Project repositories will be linked when the work is ready for publication.*
+  
 
 ## 📈 GitHub Activity
 
